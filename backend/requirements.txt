@@ -1,0 +1,16 @@
+# Django
+Django==4.2.27
+djangorestframework==3.16.1
+django-cors-headers==4.9.0
+
+# Environment
+python-dotenv==1.2.1
+
+# LLM
+langchain-openai==0.3.35
+
+# PDF processing
+PyMuPDF==1.26.5
+
+# Data validation
+pydantic==2.12.5
